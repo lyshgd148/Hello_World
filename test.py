@@ -10,3 +10,6 @@ print(3)
 print("mian1")
 print("main2")
 >>>>>>> main
+
+
+print(1)
